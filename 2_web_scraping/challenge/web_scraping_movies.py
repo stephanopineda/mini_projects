@@ -11,9 +11,9 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 url = 'https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films'
-db_name = './web_scraping/challenge/Movies.db'
+db_name = './2_web_scraping/challenge/Movies.db'
 table_name = 'Top_25'
-csv_path = './web_scraping/challenge/top_25_films_rotten_tomatoes.csv'
+csv_path = './2_web_scraping/challenge/top_25_films_rotten_tomatoes.csv'
 # Index: Film = 1, Year = 2, Rotten Tomatoes = 3
 df = pd.DataFrame(columns = ['Film', 'Year', 'Rotten Tomatoes'])
 count = 0

@@ -4,9 +4,9 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 url = 'https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films'
-db_name = './web_scraping/Movies.db'
+db_name = './2_web_scraping/Movies.db'
 table_name = 'Top_50'
-csv_path = './web_scraping/top_50_films.csv'
+csv_path = './2_web_scraping/top_50_films.csv'
 df = pd.DataFrame(columns = ['Average Rank', 'Film', 'Year'])
 count = 0
 
