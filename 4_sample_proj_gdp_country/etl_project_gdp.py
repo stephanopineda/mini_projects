@@ -158,7 +158,7 @@ def _log_progress(message):
     ''' This function logs the mentioned message at a given 
     stage of the code execution to a log file. Function returns nothing.'''
     timestamp_format = '%Y-%h-%d %H:%M:%S' # Year-MonthName-Day-Hour-Minute-Second
-    log_file_path = './4_project/log_file.txt'
+    log_file_path = './4_sample_proj_gdp_country/log_file.txt'
     with open(log_file_path, 'a') as log_file:
         log_file.write(f'{datetime.now().strftime(timestamp_format)} {message} \n')
         # print(f'{datetime.now().strftime(timestamp_format)} {message} \n')
@@ -173,13 +173,13 @@ _log_progress('Declaring known values.')
 # url = 'https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
 url = 'https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
 table_attribs = ['Country', 'GDP_USD_Millions']
-db_name = './4_project/World_Economies.db'
+db_name = './4_sample_proj_gdp_country/World_Economies.db'
 table_name = 'Countries_by_GDP'
-csv_path = './4_project/Countries_by_GDP.csv' 
+csv_path = './4_sample_proj_gdp_country/Countries_by_GDP.csv' 
 
 _log_progress('Preliminaries complete. Initiating ETL process.')
 
-df = extract_1(url, table_attribs)
+df = extract_2(url, table_attribs)
 print(df)
 
 _log_progress('Data extraction complete. Initiating Transformation process.')
