@@ -1,0 +1,523 @@
+2024-Dec-11 14:51:05 Initialization started. 
+2024-Dec-11 14:58:45 Initialization started. 
+2024-Dec-11 15:00:00 Initialization started. 
+2024-Dec-11 15:01:38 Initialization started. 
+2024-Dec-11 15:01:51 Initialization started. 
+2024-Dec-11 15:02:08 Initialization started. 
+2024-Dec-11 15:02:46 Initialization started. 
+2024-Dec-11 15:03:00 Initialization started. 
+2024-Dec-12 00:31:35 Initialization started. 
+2024-Dec-12 00:33:42 Initialization started. 
+2024-Dec-12 00:35:55 Initialization started. 
+2024-Dec-12 00:36:11 Initialization started. 
+2024-Dec-12 00:36:30 Initialization started. 
+2024-Dec-12 00:36:47 Initialization started. 
+2024-Dec-12 09:12:39 Initialization started. 
+2024-Dec-12 09:13:00 Initialization started. 
+2024-Dec-12 09:13:10 Initialization started. 
+2024-Dec-12 09:13:33 Initialization started. 
+2024-Dec-12 09:13:48 Initialization started. 
+2024-Dec-12 09:33:32 Initialization started. 
+2024-Dec-12 09:33:47 Initialization started. 
+2024-Dec-12 09:34:06 Initialization started. 
+2024-Dec-12 09:34:16 Initialization started. 
+2024-Dec-12 09:34:25 Initialization started. 
+2024-Dec-12 09:35:05 Initialization started. 
+2024-Dec-12 09:35:17 Initialization started. 
+2024-Dec-12 09:35:38 Initialization started. 
+2024-Dec-12 09:40:13 Initialization started. 
+2024-Dec-12 09:40:45 Initialization started. 
+2024-Dec-12 09:41:08 Initialization started. 
+2024-Dec-12 09:41:44 Initialization started. 
+2024-Dec-12 09:45:56 Initialization started. 
+2024-Dec-12 10:00:42 Initialization started. 
+2024-Dec-12 10:00:51 Initialization started. 
+2024-Dec-12 10:01:28 Initialization started. 
+2024-Dec-12 10:03:32 Initialization started. 
+2024-Dec-12 10:06:12 Initialization started. 
+2024-Dec-12 10:11:17 Initialization started. 
+2024-Dec-12 10:12:12 Initialization started. 
+2024-Dec-12 10:12:21 Initialization started. 
+2024-Dec-12 10:12:34 Initialization started. 
+2024-Dec-12 10:14:31 Initialization started. 
+2024-Dec-12 10:15:26 Initialization started. 
+2024-Dec-12 10:15:36 Initialization started. 
+2024-Dec-12 10:15:48 Initialization started. 
+2024-Dec-12 10:16:50 Initialization started. 
+2024-Dec-12 10:17:13 Initialization started. 
+2024-Dec-12 10:17:50 Initialization started. 
+2024-Dec-12 10:19:35 Initialization started. 
+2024-Dec-12 10:21:26 Initialization started. 
+2024-Dec-12 10:28:10 Initialization started. 
+2024-Dec-12 10:29:01 Initialization started. 
+2024-Dec-12 10:29:18 Initialization started. 
+2024-Dec-12 10:30:24 Initialization started. 
+2024-Dec-12 10:33:28 Initialization started. 
+2024-Dec-12 10:34:57 Initialization started. 
+2024-Dec-12 10:36:16 Initialization started. 
+2024-Dec-12 10:36:25 Initialization started. 
+2024-Dec-12 10:36:37 Initialization started. 
+2024-Dec-12 10:37:38 Initialization started. 
+2024-Dec-12 10:37:49 Initialization started. 
+2024-Dec-12 10:38:17 Initialization started. 
+2024-Dec-12 10:40:00 Initialization started. 
+2024-Dec-12 10:40:29 Initialization started. 
+2024-Dec-12 10:41:41 Initialization started. 
+2024-Dec-12 10:41:59 Initialization started. 
+2024-Dec-12 10:42:33 Initialization started. 
+2024-Dec-12 10:43:08 Initialization started. 
+2024-Dec-12 10:43:26 Initialization started. 
+2024-Dec-12 11:10:59 Initialization started. 
+2024-Dec-12 11:12:15 Initialization started. 
+2024-Dec-12 11:12:51 Initialization started. 
+2024-Dec-12 11:13:23 Initialization started. 
+2024-Dec-12 11:14:27 Initialization started. 
+2024-Dec-12 11:14:47 Initialization started. 
+2024-Dec-12 11:15:00 Initialization started. 
+2024-Dec-12 11:15:14 Initialization started. 
+2024-Dec-12 11:15:36 Initialization started. 
+2024-Dec-12 11:19:21 Initialization started. 
+2024-Dec-12 11:19:58 Initialization started. 
+2024-Dec-12 11:20:36 Initialization started. 
+2024-Dec-12 11:20:47 Initialization started. 
+2024-Dec-12 11:23:57 Initialization started. 
+2024-Dec-12 11:24:26 Initialization started. 
+2024-Dec-12 11:26:06 Initialization started. 
+2024-Dec-12 11:26:19 Initialization started. 
+2024-Dec-12 11:26:36 Initialization started. 
+2024-Dec-12 11:27:44 Initialization started. 
+2024-Dec-12 11:28:14 Initialization started. 
+2024-Dec-12 11:28:23 Initialization started. 
+2024-Dec-12 11:35:27 Initialization started. 
+2024-Dec-12 11:35:27 Initialization done. 
+2024-Dec-12 11:35:27 Extraction started. 
+2024-Dec-12 11:35:30 Extraction done. 
+2024-Dec-12 11:35:51 Initialization started. 
+2024-Dec-12 11:35:51 Initialization done. 
+2024-Dec-12 11:35:51 Extraction started. 
+2024-Dec-12 11:35:53 Extraction done. 
+2024-Dec-12 14:34:23 Initialization started. 
+2024-Dec-12 14:34:23 Initialization done. 
+2024-Dec-12 14:34:23 Extraction started. 
+2024-Dec-12 14:34:25 Extraction done. 
+2024-Dec-12 14:34:45 Initialization started. 
+2024-Dec-12 14:34:45 Initialization done. 
+2024-Dec-12 14:34:45 Extraction started. 
+2024-Dec-12 14:34:46 Extraction done. 
+2024-Dec-12 14:36:22 Initialization started. 
+2024-Dec-12 14:36:22 Initialization done. 
+2024-Dec-12 14:36:22 Extraction started. 
+2024-Dec-12 14:36:24 Extraction done. 
+2024-Dec-12 14:36:56 Initialization started. 
+2024-Dec-12 14:36:56 Initialization done. 
+2024-Dec-12 14:36:56 Extraction started. 
+2024-Dec-12 14:37:12 Initialization started. 
+2024-Dec-12 14:37:12 Initialization done. 
+2024-Dec-12 14:37:12 Extraction started. 
+2024-Dec-12 14:37:31 Initialization started. 
+2024-Dec-12 14:37:31 Initialization done. 
+2024-Dec-12 14:37:31 Extraction started. 
+2024-Dec-12 14:38:12 Initialization started. 
+2024-Dec-12 14:38:12 Initialization done. 
+2024-Dec-12 14:38:12 Extraction started. 
+2024-Dec-12 14:38:13 Extraction done. 
+2024-Dec-12 14:41:24 Initialization started. 
+2024-Dec-12 14:41:24 Initialization done. 
+2024-Dec-12 14:41:24 Extraction started. 
+2024-Dec-12 14:41:26 Extraction done. 
+2024-Dec-12 14:41:37 Initialization started. 
+2024-Dec-12 14:41:37 Initialization done. 
+2024-Dec-12 14:41:37 Extraction started. 
+2024-Dec-12 14:41:38 Extraction done. 
+2024-Dec-12 14:42:14 Initialization started. 
+2024-Dec-12 14:42:14 Initialization done. 
+2024-Dec-12 14:42:14 Extraction started. 
+2024-Dec-12 14:42:15 Extraction done. 
+2024-Dec-12 14:42:24 Initialization started. 
+2024-Dec-12 14:42:24 Initialization done. 
+2024-Dec-12 14:42:24 Extraction started. 
+2024-Dec-12 14:42:25 Extraction done. 
+2024-Dec-12 14:42:47 Initialization started. 
+2024-Dec-12 14:42:47 Initialization done. 
+2024-Dec-12 14:42:47 Extraction started. 
+2024-Dec-12 14:42:48 Extraction done. 
+2024-Dec-12 14:43:52 Initialization started. 
+2024-Dec-12 14:43:52 Initialization done. 
+2024-Dec-12 14:43:52 Extraction started. 
+2024-Dec-12 14:43:53 Extraction done. 
+2024-Dec-12 14:45:04 Initialization started. 
+2024-Dec-12 14:45:04 Initialization done. 
+2024-Dec-12 14:45:04 Extraction started. 
+2024-Dec-12 14:45:05 Extraction done. 
+2024-Dec-12 14:47:28 Initialization started. 
+2024-Dec-12 14:47:28 Initialization done. 
+2024-Dec-12 14:47:28 Extraction started. 
+2024-Dec-12 14:48:07 Initialization started. 
+2024-Dec-12 14:48:07 Initialization done. 
+2024-Dec-12 14:48:07 Extraction started. 
+2024-Dec-12 14:48:09 Extraction done. 
+2024-Dec-12 14:48:53 Initialization started. 
+2024-Dec-12 14:48:53 Initialization done. 
+2024-Dec-12 14:48:53 Extraction started. 
+2024-Dec-12 14:49:14 Initialization started. 
+2024-Dec-12 14:49:14 Initialization done. 
+2024-Dec-12 14:49:14 Extraction started. 
+2024-Dec-12 14:49:28 Initialization started. 
+2024-Dec-12 14:49:28 Initialization done. 
+2024-Dec-12 14:49:28 Extraction started. 
+2024-Dec-12 14:50:06 Initialization started. 
+2024-Dec-12 14:50:06 Initialization done. 
+2024-Dec-12 14:50:06 Extraction started. 
+2024-Dec-12 14:51:01 Initialization started. 
+2024-Dec-12 14:51:01 Initialization done. 
+2024-Dec-12 14:51:01 Extraction started. 
+2024-Dec-12 14:51:03 Extraction done. 
+2024-Dec-12 14:51:14 Initialization started. 
+2024-Dec-12 14:51:14 Initialization done. 
+2024-Dec-12 14:51:14 Extraction started. 
+2024-Dec-12 14:51:28 Initialization started. 
+2024-Dec-12 14:51:28 Initialization done. 
+2024-Dec-12 14:51:28 Extraction started. 
+2024-Dec-12 14:51:30 Extraction done. 
+2024-Dec-12 14:51:56 Initialization started. 
+2024-Dec-12 14:51:56 Initialization done. 
+2024-Dec-12 14:51:56 Extraction started. 
+2024-Dec-12 14:51:57 Extraction done. 
+2024-Dec-12 14:52:19 Initialization started. 
+2024-Dec-12 14:52:19 Initialization done. 
+2024-Dec-12 14:52:19 Extraction started. 
+2024-Dec-12 14:52:31 Initialization started. 
+2024-Dec-12 14:52:31 Initialization done. 
+2024-Dec-12 14:52:31 Extraction started. 
+2024-Dec-12 14:52:49 Initialization started. 
+2024-Dec-12 14:52:49 Initialization done. 
+2024-Dec-12 14:52:49 Extraction started. 
+2024-Dec-12 14:52:50 Extraction done. 
+2024-Dec-12 14:53:01 Initialization started. 
+2024-Dec-12 14:53:01 Initialization done. 
+2024-Dec-12 14:53:01 Extraction started. 
+2024-Dec-12 14:53:12 Initialization started. 
+2024-Dec-12 14:53:12 Initialization done. 
+2024-Dec-12 14:53:12 Extraction started. 
+2024-Dec-12 14:53:14 Extraction done. 
+2024-Dec-12 14:53:44 Initialization started. 
+2024-Dec-12 14:53:44 Initialization done. 
+2024-Dec-12 14:53:44 Extraction started. 
+2024-Dec-12 14:53:46 Extraction done. 
+2024-Dec-12 14:54:31 Initialization started. 
+2024-Dec-12 14:54:31 Initialization done. 
+2024-Dec-12 14:54:31 Extraction started. 
+2024-Dec-12 14:54:33 Extraction done. 
+2024-Dec-12 14:55:11 Initialization started. 
+2024-Dec-12 14:55:11 Initialization done. 
+2024-Dec-12 14:55:11 Extraction started. 
+2024-Dec-12 14:55:41 Initialization started. 
+2024-Dec-12 14:55:41 Initialization done. 
+2024-Dec-12 14:55:41 Extraction started. 
+2024-Dec-12 14:55:43 Extraction done. 
+2024-Dec-12 14:56:33 Initialization started. 
+2024-Dec-12 14:56:33 Initialization done. 
+2024-Dec-12 14:56:33 Extraction started. 
+2024-Dec-12 14:56:49 Initialization started. 
+2024-Dec-12 14:56:49 Initialization done. 
+2024-Dec-12 14:56:49 Extraction started. 
+2024-Dec-12 14:56:51 Extraction done. 
+2024-Dec-12 14:58:30 Initialization started. 
+2024-Dec-12 14:58:30 Initialization done. 
+2024-Dec-12 14:58:30 Extraction started. 
+2024-Dec-12 14:58:33 Extraction done. 
+2024-Dec-12 15:00:33 Initialization started. 
+2024-Dec-12 15:00:33 Initialization done. 
+2024-Dec-12 15:00:33 Extraction started. 
+2024-Dec-12 15:00:35 Extraction done. 
+2024-Dec-12 15:00:52 Initialization started. 
+2024-Dec-12 15:00:52 Initialization done. 
+2024-Dec-12 15:00:52 Extraction started. 
+2024-Dec-12 15:00:54 Extraction done. 
+2024-Dec-12 15:01:02 Initialization started. 
+2024-Dec-12 15:01:02 Initialization done. 
+2024-Dec-12 15:01:02 Extraction started. 
+2024-Dec-12 15:01:03 Extraction done. 
+2024-Dec-12 15:01:13 Initialization started. 
+2024-Dec-12 15:01:13 Initialization done. 
+2024-Dec-12 15:01:13 Extraction started. 
+2024-Dec-12 15:01:14 Extraction done. 
+2024-Dec-12 15:01:42 Initialization started. 
+2024-Dec-12 15:01:42 Initialization done. 
+2024-Dec-12 15:01:42 Extraction started. 
+2024-Dec-12 15:01:45 Extraction done. 
+2024-Dec-12 15:02:16 Initialization started. 
+2024-Dec-12 15:02:16 Initialization done. 
+2024-Dec-12 15:02:16 Extraction started. 
+2024-Dec-12 15:02:17 Extraction done. 
+2024-Dec-12 15:02:29 Initialization started. 
+2024-Dec-12 15:02:29 Initialization done. 
+2024-Dec-12 15:02:29 Extraction started. 
+2024-Dec-12 15:02:31 Extraction done. 
+2024-Dec-12 15:05:07 Initialization started. 
+2024-Dec-12 15:05:07 Initialization done. 
+2024-Dec-12 15:05:07 Extraction started. 
+2024-Dec-12 15:05:26 Initialization started. 
+2024-Dec-12 15:05:26 Initialization done. 
+2024-Dec-12 15:05:26 Extraction started. 
+2024-Dec-12 15:05:28 Extraction done. 
+2024-Dec-12 15:05:38 Initialization started. 
+2024-Dec-12 15:05:38 Initialization done. 
+2024-Dec-12 15:05:38 Extraction started. 
+2024-Dec-12 15:05:40 Extraction done. 
+2024-Dec-12 15:07:25 Initialization started. 
+2024-Dec-12 15:07:25 Initialization done. 
+2024-Dec-12 15:07:25 Extraction started. 
+2024-Dec-12 15:07:27 Extraction done. 
+2024-Dec-12 15:07:40 Initialization started. 
+2024-Dec-12 15:07:40 Initialization done. 
+2024-Dec-12 15:07:40 Extraction started. 
+2024-Dec-12 15:07:41 Extraction done. 
+2024-Dec-12 15:39:47 Initialization started. 
+2024-Dec-12 15:39:47 Initialization done. 
+2024-Dec-12 15:39:47 Extraction started. 
+2024-Dec-12 15:40:03 Initialization started. 
+2024-Dec-12 15:40:03 Initialization done. 
+2024-Dec-12 15:40:03 Extraction started. 
+2024-Dec-12 15:40:05 Extraction done. 
+2024-Dec-12 15:42:45 Initialization started. 
+2024-Dec-12 15:42:45 Initialization done. 
+2024-Dec-12 15:42:45 Extraction started. 
+2024-Dec-12 15:42:47 Extraction done. 
+2024-Dec-12 15:42:59 Initialization started. 
+2024-Dec-12 15:42:59 Initialization done. 
+2024-Dec-12 15:42:59 Extraction started. 
+2024-Dec-12 15:43:01 Extraction done. 
+2024-Dec-12 15:59:53 Initialization started. 
+2024-Dec-12 15:59:53 Initialization done. 
+2024-Dec-12 15:59:53 Extraction started. 
+2024-Dec-12 16:00:26 Initialization started. 
+2024-Dec-12 16:00:26 Initialization done. 
+2024-Dec-12 16:00:26 Extraction started. 
+2024-Dec-12 16:00:38 Initialization started. 
+2024-Dec-12 16:00:38 Initialization done. 
+2024-Dec-12 16:00:38 Extraction started. 
+2024-Dec-12 16:01:09 Initialization started. 
+2024-Dec-12 16:01:09 Initialization done. 
+2024-Dec-12 16:01:09 Extraction started. 
+2024-Dec-12 16:01:21 Initialization started. 
+2024-Dec-12 16:01:21 Initialization done. 
+2024-Dec-12 16:01:21 Extraction started. 
+2024-Dec-12 16:01:37 Initialization started. 
+2024-Dec-12 16:01:37 Initialization done. 
+2024-Dec-12 16:01:37 Extraction started. 
+2024-Dec-12 16:01:38 Extraction done. 
+2024-Dec-12 16:07:32 Initialization started. 
+2024-Dec-12 16:07:32 Initialization done. 
+2024-Dec-12 16:07:32 Extraction started. 
+2024-Dec-12 16:07:34 Extraction done. 
+2024-Dec-12 16:07:34 Transformation started. 
+2024-Dec-12 16:07:53 Initialization started. 
+2024-Dec-12 16:07:53 Initialization done. 
+2024-Dec-12 16:07:53 Extraction started. 
+2024-Dec-12 16:07:54 Extraction done. 
+2024-Dec-12 16:07:54 Transformation started. 
+2024-Dec-12 16:08:18 Initialization started. 
+2024-Dec-12 16:08:18 Initialization done. 
+2024-Dec-12 16:08:18 Extraction started. 
+2024-Dec-12 16:08:19 Extraction done. 
+2024-Dec-12 16:08:19 Transformation started. 
+2024-Dec-12 16:08:35 Initialization started. 
+2024-Dec-12 16:08:35 Initialization done. 
+2024-Dec-12 16:08:35 Extraction started. 
+2024-Dec-12 16:08:36 Extraction done. 
+2024-Dec-12 16:08:36 Transformation started. 
+2024-Dec-12 16:08:56 Initialization started. 
+2024-Dec-12 16:08:56 Initialization done. 
+2024-Dec-12 16:08:56 Extraction started. 
+2024-Dec-12 16:08:57 Extraction done. 
+2024-Dec-12 16:08:57 Transformation started. 
+2024-Dec-12 16:08:57 Transformation ended. 
+2024-Dec-12 16:09:16 Initialization started. 
+2024-Dec-12 16:09:16 Initialization done. 
+2024-Dec-12 16:09:16 Extraction started. 
+2024-Dec-12 16:09:17 Extraction done. 
+2024-Dec-12 16:09:17 Transformation started. 
+2024-Dec-12 16:09:17 Transformation ended. 
+2024-Dec-12 16:10:44 Initialization started. 
+2024-Dec-12 16:10:44 Initialization done. 
+2024-Dec-12 16:10:44 Extraction started. 
+2024-Dec-12 16:10:45 Extraction done. 
+2024-Dec-12 16:10:45 Transformation started. 
+2024-Dec-12 16:10:45 Transformation ended. 
+2024-Dec-12 16:11:00 Initialization started. 
+2024-Dec-12 16:11:00 Initialization done. 
+2024-Dec-12 16:11:00 Extraction started. 
+2024-Dec-12 16:11:01 Extraction done. 
+2024-Dec-12 16:11:01 Transformation started. 
+2024-Dec-12 16:11:01 Transformation ended. 
+2024-Dec-12 16:19:46 Initialization started. 
+2024-Dec-12 16:19:46 Initialization done. 
+2024-Dec-12 16:19:46 Extraction started. 
+2024-Dec-12 16:19:48 Extraction done. 
+2024-Dec-12 16:19:48 Transformation started. 
+2024-Dec-12 16:19:48 Transformation ended. 
+2024-Dec-12 16:19:58 Initialization started. 
+2024-Dec-12 16:19:58 Initialization done. 
+2024-Dec-12 16:19:58 Extraction started. 
+2024-Dec-12 16:19:59 Extraction done. 
+2024-Dec-12 16:19:59 Transformation started. 
+2024-Dec-12 16:19:59 Transformation ended. 
+2024-Dec-12 16:20:33 Initialization started. 
+2024-Dec-12 16:20:33 Initialization done. 
+2024-Dec-12 16:20:33 Extraction started. 
+2024-Dec-12 16:20:34 Extraction done. 
+2024-Dec-12 16:20:34 Transformation started. 
+2024-Dec-12 16:20:34 Transformation ended. 
+2024-Dec-12 16:32:56 Initialization started. 
+2024-Dec-12 16:32:56 Initialization done. 
+2024-Dec-12 16:32:56 Extraction started. 
+2024-Dec-12 16:32:57 Extraction done. 
+2024-Dec-12 16:32:57 Transformation started. 
+2024-Dec-12 16:32:57 Transformation ended. 
+2024-Dec-12 16:45:27 Initialization Started. 
+2024-Dec-12 16:45:27 Initialization Ended. 
+2024-Dec-12 16:45:27 Extraction Started. 
+2024-Dec-12 16:45:52 Initialization Started. 
+2024-Dec-12 16:45:52 Initialization Ended. 
+2024-Dec-12 16:45:52 Extraction Started. 
+2024-Dec-12 16:46:22 Initialization Started. 
+2024-Dec-12 16:46:22 Initialization Ended. 
+2024-Dec-12 16:46:22 Extraction Started. 
+2024-Dec-12 16:48:13 Initialization Started. 
+2024-Dec-12 16:48:13 Initialization Ended. 
+2024-Dec-12 16:48:13 Extraction Started. 
+2024-Dec-12 16:48:26 Initialization Started. 
+2024-Dec-12 16:48:26 Initialization Ended. 
+2024-Dec-12 16:48:26 Extraction Started. 
+2024-Dec-12 16:49:25 Initialization Started. 
+2024-Dec-12 16:49:25 Initialization Ended. 
+2024-Dec-12 16:49:25 Extraction Started. 
+2024-Dec-12 16:51:20 Initialization Started. 
+2024-Dec-12 16:51:20 Initialization Ended. 
+2024-Dec-12 16:51:20 Extraction Started. 
+2024-Dec-12 16:51:21 Extraction Ended. 
+2024-Dec-12 16:51:21 Transformation Started. 
+2024-Dec-12 16:51:42 Initialization Started. 
+2024-Dec-12 16:51:42 Initialization Ended. 
+2024-Dec-12 16:51:42 Extraction Started. 
+2024-Dec-12 16:51:42 Extraction Ended. 
+2024-Dec-12 16:51:42 Transformation Started. 
+2024-Dec-12 16:53:44 Initialization Started. 
+2024-Dec-12 16:53:44 Initialization Ended. 
+2024-Dec-12 16:53:44 Extraction Started. 
+2024-Dec-12 16:53:45 Extraction Ended. 
+2024-Dec-12 16:53:45 Transformation Started. 
+2024-Dec-12 16:53:45 Transformation Ended. 
+2024-Dec-12 16:53:45 Load to CSV Started. 
+2024-Dec-12 16:53:45 Load to CSV Ended. 
+2024-Dec-12 16:53:45 Load to database Started. 
+2024-Dec-12 16:53:45 Load to database Ended. 
+2024-Dec-12 17:00:19 Initialization Started. 
+2024-Dec-12 17:00:19 Initialization Ended. 
+2024-Dec-12 17:00:19 Extraction Started. 
+2024-Dec-12 17:00:19 Extraction Ended. 
+2024-Dec-12 17:00:19 Transformation Started. 
+2024-Dec-12 17:00:19 Transformation Ended. 
+2024-Dec-12 17:00:19 Load to CSV Started. 
+2024-Dec-12 17:00:19 Load to CSV Ended. 
+2024-Dec-12 17:00:19 Load to database Started. 
+2024-Dec-12 17:00:19 Load to database Ended. 
+2024-Dec-12 17:00:19 Query Started 
+2024-Dec-12 17:01:01 Initialization Started. 
+2024-Dec-12 17:01:01 Initialization Ended. 
+2024-Dec-12 17:01:01 Extraction Started. 
+2024-Dec-12 17:01:01 Extraction Ended. 
+2024-Dec-12 17:01:01 Transformation Started. 
+2024-Dec-12 17:01:01 Transformation Ended. 
+2024-Dec-12 17:01:01 Load to CSV Started. 
+2024-Dec-12 17:01:01 Load to CSV Ended. 
+2024-Dec-12 17:01:01 Load to database Started. 
+2024-Dec-12 17:01:01 Load to database Ended. 
+2024-Dec-12 17:01:01 Query Started 
+2024-Dec-12 17:01:01 Query Ended 
+2024-Dec-12 17:02:16 Initialization Started. 
+2024-Dec-12 17:02:16 Initialization Ended. 
+2024-Dec-12 17:02:16 Extraction Started. 
+2024-Dec-12 17:02:16 Extraction Ended. 
+2024-Dec-12 17:02:16 Transformation Started. 
+2024-Dec-12 17:02:16 Transformation Ended. 
+2024-Dec-12 17:02:16 Load to CSV Started. 
+2024-Dec-12 17:02:16 Load to CSV Ended. 
+2024-Dec-12 17:02:16 Load to database Started. 
+2024-Dec-12 17:02:16 Load to database Ended. 
+2024-Dec-12 17:02:16 Query Started 
+2024-Dec-12 17:02:54 Initialization Started. 
+2024-Dec-12 17:02:54 Initialization Ended. 
+2024-Dec-12 17:02:54 Extraction Started. 
+2024-Dec-12 17:02:54 Extraction Ended. 
+2024-Dec-12 17:02:54 Transformation Started. 
+2024-Dec-12 17:02:54 Transformation Ended. 
+2024-Dec-12 17:02:54 Load to CSV Started. 
+2024-Dec-12 17:02:54 Load to CSV Ended. 
+2024-Dec-12 17:02:54 Load to database Started. 
+2024-Dec-12 17:02:54 Load to database Ended. 
+2024-Dec-12 17:02:54 Query Started 
+2024-Dec-12 17:03:44 Initialization Started. 
+2024-Dec-12 17:03:44 Initialization Ended. 
+2024-Dec-12 17:03:44 Extraction Started. 
+2024-Dec-12 17:03:44 Extraction Ended. 
+2024-Dec-12 17:03:44 Transformation Started. 
+2024-Dec-12 17:03:44 Transformation Ended. 
+2024-Dec-12 17:03:44 Load to CSV Started. 
+2024-Dec-12 17:03:44 Load to CSV Ended. 
+2024-Dec-12 17:03:44 Load to database Started. 
+2024-Dec-12 17:03:44 Load to database Ended. 
+2024-Dec-12 17:03:44 Query Started 
+2024-Dec-12 17:03:44 Query Ended 
+2024-Dec-12 17:05:01 Initialization Started. 
+2024-Dec-12 17:05:01 Initialization Ended. 
+2024-Dec-12 17:05:01 Extraction Started. 
+2024-Dec-12 17:05:01 Extraction Ended. 
+2024-Dec-12 17:05:01 Transformation Started. 
+2024-Dec-12 17:05:01 Transformation Ended. 
+2024-Dec-12 17:05:01 Load to CSV Started. 
+2024-Dec-12 17:05:01 Load to CSV Ended. 
+2024-Dec-12 17:05:01 Load to database Started. 
+2024-Dec-12 17:05:01 Load to database Ended. 
+2024-Dec-12 17:05:01 Query Started 
+2024-Dec-12 17:05:01 Query Ended 
+2024-Dec-12 17:07:41 Declaring known values. 
+2024-Dec-12 17:07:41 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:07:41 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:07:41 Data transformation complete. Initiating loading process. 
+2024-Dec-12 17:07:41 Data saved to CSV file. 
+2024-Dec-12 17:07:41 SQL Connection initiated. 
+2024-Dec-12 17:07:41 Data loaded to Database as table. Running the query. 
+2024-Dec-12 17:07:41 Process Complete. 
+2024-Dec-12 17:11:27 Declaring known values. 
+2024-Dec-12 17:11:27 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:11:27 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:11:42 Declaring known values. 
+2024-Dec-12 17:11:42 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:11:42 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:11:54 Declaring known values. 
+2024-Dec-12 17:11:54 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:11:55 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:12:17 Declaring known values. 
+2024-Dec-12 17:12:17 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:12:17 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:12:46 Declaring known values. 
+2024-Dec-12 17:12:46 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:12:47 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:13:01 Declaring known values. 
+2024-Dec-12 17:13:01 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:13:01 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:13:29 Declaring known values. 
+2024-Dec-12 17:13:29 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:13:29 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:14:09 Declaring known values. 
+2024-Dec-12 17:14:09 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:14:42 Declaring known values. 
+2024-Dec-12 17:14:42 Preliminaries complete. Initiating ETL process. 
+2024-Dec-12 17:14:42 Data extraction complete. Initiating Transformation process. 
+2024-Dec-12 17:14:42 Data transformation complete. Initiating loading process. 
+2024-Dec-12 17:14:42 Data saved to CSV file. 
+2024-Dec-12 17:14:42 SQL Connection initiated. 
+2024-Dec-12 17:14:42 Data loaded to Database as table. Running the query. 
+2024-Dec-12 17:14:42 Process Complete. 
