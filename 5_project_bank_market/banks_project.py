@@ -14,6 +14,7 @@ LOG_FILE_PATH = '/code_log.txt'
 
 def log_progress(message):
     ''' Saves message to a text log specified in the log path.
+    
     Args:
         message (str): The message to be logged.
     Returns:
@@ -110,6 +111,7 @@ def load_to_db(df, sql_conn, table_name):
 
 def run_query(query_statement, sql_connection):
     '''Prints the passed SQL query and the output on the terminal.
+    
     Args:
         query_statement (str): SQL Query to be executed.
         sql_connection (Connection): Connection to the selected database.
