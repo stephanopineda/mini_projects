@@ -1,9 +1,0 @@
-[LOG] Preliminaries complete. Initiating ETL process. 
-[LOG] Extracting data... 
-[LOG] No table found with the same attribs. 
-[LOG] Preliminaries complete. Initiating ETL process. 
-[LOG] Extracting data... 
-[LOG] No table found with the same attribs. 
-[LOG] Preliminaries complete. Initiating ETL process. 
-[LOG] Extracting data... 
-[LOG] No table found with the same attribs. 
